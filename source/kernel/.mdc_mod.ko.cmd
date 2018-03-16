@@ -1,0 +1,1 @@
+cmd_/home/ustc/code/source/kernel/mdc_mod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ustc/code/source/kernel/mdc_mod.ko /home/ustc/code/source/kernel/mdc_mod.o /home/ustc/code/source/kernel/mdc_mod.mod.o
